@@ -1,0 +1,23 @@
+{
+  "name": "rabbitmq_example",
+  "version": "0.0.0",
+  "description": "rabbitmq_example ================",
+  "main": "module1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eliseumds/rabbitmq_example.git"
+  },
+  "author": "Eliseu Monar <eliseumds@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eliseumds/rabbitmq_example/issues"
+  },
+  "homepage": "https://github.com/eliseumds/rabbitmq_example",
+  "dependencies": {
+    "amqp": "~0.1.8",
+    "express": "~3.4.8"
+  }
+}
