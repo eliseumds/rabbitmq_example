@@ -18,6 +18,6 @@
   "homepage": "https://github.com/eliseumds/rabbitmq_example",
   "dependencies": {
     "amqp": "~0.1.8",
-    "express": "~3.4.8"
+    "express": "~4.17.1"
   }
 }
